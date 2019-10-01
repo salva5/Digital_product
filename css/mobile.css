@@ -1,0 +1,23 @@
+@media (max-width: 700px) {
+  .products {
+    display: inherit;
+    height: auto;
+  }
+  .product {
+    margin-top: auto;
+  }
+  .main_section {
+    padding: 2%;
+  }
+  .ventajas {
+    display: inherit;
+    margin-top: 200%;
+  }
+  .menciones {
+    display: inherit;
+    margin-top: 1px;
+  }
+  .section_menciones {
+    padding-top: 70%;
+  }
+}
